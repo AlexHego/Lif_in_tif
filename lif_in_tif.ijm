@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-////// This macro was written in february 2021 by Alexandre Hego for Novadip
+////// This macro was written in february 2021 by Alexandre Hego 
 ////// This macro will convert automatically all the file in .lif in .tif
 ////// This macro will run in batch mode and need bio-format
 ////// If you need more informations please contact alexandre.hego@uliege.be
