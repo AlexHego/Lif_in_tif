@@ -1,4 +1,4 @@
-# Lif_in_tif
+# Lif_in_ometif
 
 #### 1. export data from incucyte and merge the data on your computer
 1. connect to your incucyte session and export the data
