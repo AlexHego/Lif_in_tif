@@ -39,7 +39,7 @@ for (i=0; i<list.length; i++) {
 			name=getTitle();
 			
 		// save
-			saveAs("TIFF", output +File.separator+name+ "_"+j);
+			run("OME-TIFF...", "save=[" + output+ name+"_"+ j +".ome.tif"+ "] compression=Uncompressed");
 			run("Close All");
 			run("Collect Garbage");	
 		}
